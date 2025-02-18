@@ -14,7 +14,7 @@
     min-height: 100vh;
     width: 100%;
     /* background: linear-gradient(135deg,rgb(12,165,55),rgb(12,55,165)); */
-    background-image: url(images/bg-1.jpg);
+    background-image: url(bg-1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -195,35 +195,35 @@ nav {
 }
 
 .box:nth-child(1) {
-    background-image: url(images/dubai.jpeg);
+    background-image: url(dubai.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .box:nth-child(2) {
-    background-image: url(images/singapore.jpg);
+    background-image: url(singapore.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .box:nth-child(3) {
-    background-image: url(images/thailnd.avif);
+    background-image: url(thailnd.avif);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .box:nth-child(4) {
-    background-image: url(images/andaman.jpg);
+    background-image: url(andaman.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .box:nth-child(5) {
-    background-image: url(images/keraa.avif);
+    background-image: url(keraa.avif);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -339,7 +339,7 @@ position: absolute;
 
 
 .festiveBox:nth-child(1) {
-    background-image: url(images/maur.jpg);
+    background-image: url(maur.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -370,7 +370,7 @@ position: absolute;
 
 
 .festiveBox:nth-child(2) {
-    background-image: url(images/fair\ lady.jpg);
+    background-image: url(fair\ lady.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -419,7 +419,7 @@ position: absolute;
 
 
 .festiveBox:nth-child(3) {
-    background-image: url(images/chrismas.jpg);
+    background-image: url(chrismas.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -467,7 +467,7 @@ position: absolute;
 
 
 .festiveBox:nth-child(4) {
-    background-image: url(images/south\ america.jpg);
+    background-image: url(south\ america.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -516,7 +516,7 @@ position: absolute;
 
 
 .festiveBox:nth-child(5) {
-    background-image: url(images/jap.jpg);
+    background-image: url(jap.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -562,7 +562,7 @@ position: absolute;
 }
 
 .festiveBox:nth-child(6) {
-    background-image: url(images/dubaifest.webp);
+    background-image: url(dubaifest.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -654,7 +654,7 @@ position: absolute;
 .popularBoxes .popularRow:nth-child(1) .popularBox {
     min-height: 200px;
     width: 590px;
-    background-image: url(images/aus.avif);
+    background-image: url(aus.avif);
     background-size: cover;
     margin: 20px;
     /* text-align: center; */
@@ -723,7 +723,7 @@ position: absolute;
 .popularBoxes .popularRow:nth-child(2) .popularBox {
     min-height: 200px;
     width: 590px;
-    background-image: url(images/chardham.jpg);
+    background-image: url(chardham.jpg);
     background-size: cover;
     background-position: center;
     margin: 20px;
@@ -793,7 +793,7 @@ position: absolute;
 .popularBoxes .popularRow:nth-child(3) .popularBox {
     min-height: 200px;
     width: 590px;
-    background-image: url(images/middl.jpg);
+    background-image: url(middl.jpg);
     background-size: cover;
     background-position: center;
     margin: 20px;
@@ -865,7 +865,7 @@ position: absolute;
 .popularBoxes .popularRow:nth-child(4) .popularBox {
     min-height: 200px;
     width: 590px;
-    background-image: url(images/eu.cms);
+    background-image: url(eu.cms);
     background-size: cover;
     background-position: center;
     margin: 20px;
@@ -936,7 +936,7 @@ position: absolute;
 .popularBoxes .popularRow:nth-child(5) .popularBox {
     min-height: 200px;
     width: 590px;
-    background-image: url(images/hima.jpeg);
+    background-image: url(hima.jpeg);
     background-size: cover;
     background-position: center;
     margin: 20px;
@@ -1007,7 +1007,7 @@ position: absolute;
 .popularBoxes .popularRow:nth-child(6) .popularBox {
     min-height: 200px;
     width: 590px;
-    background-image: url(images/kash.jpg);
+    background-image: url(kash.jpg);
     background-size: cover;
     background-position: center;
     margin: 20px;
@@ -1078,7 +1078,7 @@ position: absolute;
 .popularBoxes .popularRow:nth-child(7) .popularBox {
     min-height: 200px;
     width: 590px;
-    background-image: url(images/keralaaa.jpeg);
+    background-image: url(keralaaa.jpeg);
     background-size: cover;
     background-position: center;
     margin: 20px;
@@ -1149,7 +1149,7 @@ position: absolute;
 .popularBoxes .popularRow:nth-child(8) .popularBox {
     min-height: 200px;
     width: 590px;
-    background-image: url(images//mal.jpg);
+    background-image: url(mal.jpg);
     background-size: cover;
     background-position: center;
     margin: 20px;
@@ -1259,7 +1259,7 @@ position: absolute;
 }
 
 #image1 {
-    background-image: url(images/india\ ebrochure.jpg);
+    background-image: url(india\ ebrochure.jpg);
     height: 200px;
     width: 200px;
     background-repeat: no-repeat;
@@ -1278,7 +1278,7 @@ position: absolute;
 }
 
 #image2 {
-    background-image: url(images/festive\ ebrochure.avif);
+    background-image: url(festive\ ebrochure.avif);
     height: 200px;
     width: 200px;
     background-repeat: no-repeat;
@@ -1298,7 +1298,7 @@ position: absolute;
 }
 
 #image3 {
-    background-image: url(images/fairlady\ ebrochure.jpg);
+    background-image: url(fairlady\ ebrochure.jpg);
     height: 200px;
     width: 200px;
     background-repeat: no-repeat;
@@ -1317,7 +1317,7 @@ position: absolute;
 }
 
 #image4 {
-    background-image: url(images/dubai\ fest\ ebrochure.jpg);
+    background-image: url(dubai\ fest\ ebrochure.jpg);
     height: 200px;
     width: 200px;
     background-repeat: no-repeat;
